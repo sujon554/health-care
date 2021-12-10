@@ -16,12 +16,12 @@
 - Login
 
 
-## Firebase Live Link
+## Live Link
 
-**This site FireBase Live Link [Firebase Live Link](https://health-care-cfde8.web.app/home)**
+**This site Live Link [ Live Link](https://health-care-cfde8.web.app/home)**
 
 
 
-#### GitHub Private link
-**This site was Github Private Repo [GitHub Private Repo Link](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-sujon554)**
+#### GitHub link
+**This site was Github  Repo [GitHub  Repo Link](https://github.com/sujon554/health-care)**
 
