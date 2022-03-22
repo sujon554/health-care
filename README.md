@@ -17,11 +17,3 @@
 
 
 ## Live Link
-
-**This site Live Link [ Live Link](https://health-care-cfde8.web.app/home)**
-
-
-
-#### GitHub link
-**This site was Github  Repo [GitHub  Repo Link](https://github.com/sujon554/health-care)**
-

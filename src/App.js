@@ -5,10 +5,12 @@ import AuthProvider from './contexts/AuthProvider';
 import Login from './Login/Login/Login';
 import Register from './Login/Login/Register';
 import PrivateRoute from './Login/PrivateRoute/PrivateRoute';
+import Dashboard from './pages/Dashboard/Dashboard/Dashboard';
 import About from './pages/Home/About/About';
 import Care from './pages/Home/Care/Care';
 import Contacts from './pages/Home/Contacts/Contacts';
 import Details from './pages/Home/Details/Details';
+import SingleDoctor from './pages/Home/Doctor/SingleDoctor';
 import Doctors from './pages/Home/Doctors/Doctors';
 import Home from './pages/Home/Home/Home';
 import NotFound from './pages/Home/NotFound/NotFound';
@@ -55,6 +57,15 @@ function App() {
             <Route path="/register">
             <Register></Register>
             </Route>
+
+            <Route path="/dashboard">
+            <Dashboard />
+            </Route>
+
+            <PrivateRoute path= "/singledoctor/:id">
+              <SingleDoctor/>
+          </PrivateRoute>
+
 
           <PrivateRoute path= "/details/:serviceId">
               <Details></Details>

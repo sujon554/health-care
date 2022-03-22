@@ -7,14 +7,14 @@ import banner2 from "../../images/banner2.jpg";
 import banner3 from "../../images/banner3.jpg";
 
 
-import card1 from "../../images/Home/card1.jpg";
-import card2 from "../../images/Home/card2.jpg";
-import card3 from "../../images/Home/card3.jpg";
-import card4 from "../../images/Home/card4..jpg";
-import card5 from "../../images/Home/card5.jpg";
-import card6 from "../../images/Home/card6.jpg";
-import card7 from "../../images/Home/card7.jpg";
-import card8 from "../../images/Home/card8.jpg";
+// import card1 from "../../images/Home/card1.jpg";
+// import card2 from "../../images/Home/card2.jpg";
+// import card3 from "../../images/Home/card3.jpg";
+// import card4 from "../../images/Home/card4..jpg";
+// import card5 from "../../images/Home/card5.jpg";
+// import card6 from "../../images/Home/card6.jpg";
+// import card7 from "../../images/Home/card7.jpg";
+// import card8 from "../../images/Home/card8.jpg";
 
 
 
@@ -62,7 +62,8 @@ const Banner = () => {
 
             
 
-{/* Service item */}
+
+{/* Service item 
             <div className="container py-5">
                 <h1 className="py-5 text-success"><strong>OUR CONSULTANCY</strong></h1>
             <Row xs={1} md={3} className="g-4">
@@ -123,7 +124,7 @@ const Banner = () => {
                 </Card.Body>        
             </Col>
         </Row>
-        </div>
+        </div>  */}
     </>
     );
 };

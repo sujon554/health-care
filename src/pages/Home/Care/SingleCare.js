@@ -14,11 +14,9 @@ const SingleCare = (props) => {
         fontWeight: "bold",
         fontSize: '1.2rem',
         padding: "12px",
-        
         color: 'white',
         borderRadius: "8px",
         backgroundColor: "blue"
-
     };
     const photo = {
         height: "300px",
